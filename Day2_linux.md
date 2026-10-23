@@ -34,5 +34,7 @@ Which one is best for hackers:
 
 kali linux uses:
 desktop environment: XFCE
+
 package manager: apt
+
 shell: ZSH
