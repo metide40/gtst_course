@@ -21,7 +21,7 @@
 - KDE plasma
 - XFCE
 
--window manager:
+->window manager:
 
 i3-window-manager always use short cuts no need of using mouse
 
@@ -37,7 +37,7 @@ Which one is best for hackers:
 - parrot OS
 - Garuda
 
-kali linux uses:
+->kali linux uses:
 
 desktop environment: XFCE
 
