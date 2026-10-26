@@ -1,0 +1,78 @@
+1. Information gathering app
+
+- nmap
+- maltego(for hacking)
+
+2. vulnerability analysis tools
+
+- nmap
+- nikto
+
+3. web application analysis tools
+
+- burpsuite
+- sqlmap
+- webscarab
+
+4. Database assessment tools
+
+- sqlmap
+- Jsql injection
+
+5. password attack tools
+
+- Hashcat
+- john
+- ncrack
+
+6. wireless attack tools
+
+- aircrack-ng
+
+7. Reverse Engineering tools
+
+- apktool
+- NASM shell
+
+8. exploitation tools
+
+- metasploit
+- sqlmap
+
+9. sniffing and spoofing
+
+- wireshark
+
+10. POST exploitaion
+
+- backdoor
+
+11. Forencis
+
+- hashdeep
+
+12. Reporting tools
+
+- maltego
+- record desktop
+
+13. social engineering tool
+
+- maltego
+- backdoor
+
+14. system services tools
+
+- beef start
+- beef stop
+- dradis start
+- dradis stop
+
+15. usually used application
+
+- graphics
+- programming
+- internet......
+
+-> command is small programs that do one task well.
+ls, ls -l, ls -a,
