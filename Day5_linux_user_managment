@@ -31,7 +31,7 @@ sudo => super user do
 
 ---
 
-#further on linux user managment
+#Further on linux user managment
 
 -> To update/change password:
 
@@ -39,7 +39,9 @@ eg. sudo passwd meti
 
 -> To change user and group id:
 
-eg. - sudo usermod -u (new user id) username -> for user - sudo groupmod -g (new user id) groupname -> for group
+eg. - sudo usermod -u (new user id) username -> for user
+
+    - sudo groupmod -g (new user id) groupname -> for group
 
 -> To delete user:
 -sudo userdel -r username
@@ -52,7 +54,8 @@ eg. - sudo usermod -u (new user id) username -> for user - sudo groupmod -g (new
 - sudo mkhomedir_helper username
 
 -> To change shell for user:
--sudo usermod username -s /bin/bash
+
+- sudo usermod username -s /bin/bash
 
 -> To add user to a group:
 
@@ -65,4 +68,4 @@ eg. - sudo usermod -u (new user id) username -> for user - sudo groupmod -g (new
 
 -> To add a user to sudoers:
 to open sudoers => sudo visudo
-then add the user to the privilages
+then add the user to the previlages
