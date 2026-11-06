@@ -18,5 +18,21 @@ drwx r-x r-x
 
 Special file permissions
 => SUID bits(s)- set user ID bit - add 4 infront of our numeric value -> 4000
+
+- used only for file
+
 => SGID bits(s)- set group ID bit - add 2 infront of our numeric value -> 2777
+
+- used for file and folder
+
 => sticky bits(t)- set other ID bit - add 1 infront of our numeric value -> 1602
+
+- used for folders(directories)
+
+---
+
+#Package installation on linux
+
+- repository is the site/server where kali used to upload the packages
+
+-> Advanced package tool/apt/ : apt is a free software
